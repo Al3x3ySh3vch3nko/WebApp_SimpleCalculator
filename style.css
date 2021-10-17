@@ -1,0 +1,43 @@
+body
+{
+    background-color: #000;
+    color: #00cc00;
+    font-family: rogan;
+}
+
+section
+{
+    background-color: #000;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    width: 100vh;
+    height: 95vh;
+}
+
+button
+{
+    color: #00cc00;
+    font-size: 23px;
+    padding: 27px 27px;
+    margin: 150px 30px;
+    background-color: #000;
+}
+
+label
+{
+    display: block;
+}
+
+input
+{
+    padding: 10px;
+    color: #00cc00;
+    font-size: 13px;
+    background-color: #000;
+}
+
+.input-div
+{
+    display: inline-block;
+}
